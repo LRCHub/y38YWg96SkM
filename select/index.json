@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜と朝のあいだ",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-01-07T04:43:55.280589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜と朝のあいだ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/01_夜と朝のあいだ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜と朝のあいだ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_夜と朝のあいだ_マカロニえんぴつ.txt"
+    }
+  ]
+}
